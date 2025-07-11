@@ -1,0 +1,8 @@
+# For formatted output
+tabulate
+
+# For testing and code quality
+pytest
+pytest-cov
+flake8
+black
